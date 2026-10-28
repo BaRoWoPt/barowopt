@@ -17,7 +17,6 @@ Software developer based in Vietnam with a focus on web platforms, mobile soluti
 
 #### Backend & Web Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 #### Mobile & Cross-Platform
