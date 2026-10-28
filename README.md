@@ -2,6 +2,8 @@
 
 **Developer** • Ho Chi Minh City, Viet Nam 🇻🇳 • *(he/him)*
 
+> *"Biến suy nghĩ thành ý tưởng, biến ý tưởng thành thực tế."*
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dgbao/)
 [![GitHub](https://img.shields.io/badge/GitHub-BaRoWoPt-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BaRoWoPt)
 
@@ -45,7 +47,7 @@ Software developer based in Vietnam with a focus on web platforms, mobile soluti
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
   <table border="0">
@@ -58,6 +60,10 @@ Software developer based in Vietnam with a focus on web platforms, mobile soluti
       </td>
     </tr>
   </table>
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaRoWoPt&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
