@@ -11,7 +11,7 @@
 
 ### 📌 About Me
 
-Software developer based in Vietnam with a focus on web platforms, mobile solutions, and system fundamentals. Committed to clean code, structural integrity, and building pragmatic digital products through practical project implementation.
+I code because I enjoy it, and I study AI because I want to keep up with where software and people are heading. Focused on clean code and practical products.
 
 ---
 
