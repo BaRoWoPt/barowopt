@@ -2,18 +2,18 @@
 
   <!-- Dynamic Typing Banner -->
   <a href="https://github.com/BaRoWoPt">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+%C4%90%C3%A0o+Gia+B%E1%BA%A3o+%F0%9F%91%8B;Full-Stack+Developer+%7C+Software+Engineer;Building+scalable+web+%26+mobile+solutions;%22Turning+lines+of+code+into+impactful+solutions%22;Welcome+to+my+digital+universe!+%E2%9C%A8" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=4FC08D&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+%C4%90%C3%A0o+Gia+B%E1%BA%A3o+%F0%9F%91%8B;Full-Stack+Developer+%7C+PHP+%26+Vue.js;Crafting+modern,+high-performance+web+apps;%22Turning+lines+of+code+into+impactful+solutions%22;Welcome+to+my+GitHub+Profile!+%E2%9C%A8" alt="Typing SVG Banner" />
   </a>
 
   <p align="center">
-    <strong>Full-Stack Developer</strong> • <strong>Mobile App Creator</strong> • <strong>UI/UX Enthusiast</strong>
+    <strong>Full-Stack Developer</strong> • <strong>PHP & Vue.js Specialist</strong> • <strong>UI/UX Enthusiast</strong>
   </p>
   <p align="center">📍 Ho Chi Minh City, Viet Nam 🇻🇳</p>
 
   <!-- Visitor & Social Badges -->
   <p align="center">
     <a href="https://github.com/BaRoWoPt">
-      <img src="https://komarev.com/ghpvc/?username=BaRoWoPt&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=BaRoWoPt&label=Profile%20Views&color=4FC08D&style=flat-square" alt="Profile Views" />
     </a>
     <a href="https://github.com/BaRoWoPt?tab=followers">
       <img src="https://img.shields.io/github/followers/BaRoWoPt?label=Followers&style=flat-square&color=24292e&logo=github" alt="Followers" />
@@ -34,80 +34,70 @@
 
 ```yaml
 name: Đào Gia Bảo (BaRoWoPt)
-role: Full-Stack & Mobile Developer / Software Engineer
+role: Full-Stack Web Developer (PHP & Vue.js)
 location: Viet Nam 🇻🇳
 education: 3rd-Year Software Engineering / Computer Science Student
-passions: Modern Web Apps, Mobile Development, Clean Architecture & UI/UX Design
+core_stack: PHP (Laravel / Modern PHP) + Vue.js (Vue 3 / Vite)
+passions: Responsive Web Apps, RESTful APIs, Database Optimization & Clean Architecture
 motto: "Turning lines of code into impactful solutions"
 ```
 
-- 🔭 **Current Focus**: Xây dựng và phát triển các hệ thống Web Full-Stack hiện đại (**React, Next.js, Node.js, .NET**) và ứng dụng đa nền tảng (**Flutter, React Native**).
-- 🎨 **Creative Edge**: Kết hợp tư duy lập trình với kỹ năng thiết kế đồ họa (**Adobe Photoshop, Illustrator, Lightroom**) để mang đến giao diện trực quan và trải nghiệm người dùng mượt mà.
-- 🌱 **Continuous Growth**: Nâng cao kiến thức về Cloud Computing (**Azure**), CI/CD, Microservices và tối ưu hóa cơ sở dữ liệu quy mô lớn.
-- 💬 **Ask me about**: Web Development, Cross-platform Mobile Apps, RESTful APIs và Database Design.
-- ⚡ **Fun Fact**: Được nạp năng lượng bởi cà phê sữa đá ☕, theme Dark mode 🌙 và đam mê khám phá công nghệ mới 🚀.
+- 🎯 **Primary Focus**: Chuyên sâu phát triển ứng dụng Web Full-Stack với thế mạnh cốt lõi là **PHP** (Backend / RESTful API / MVC) kết hợp cùng **Vue.js** (Frontend reactive, component-driven UI).
+- 💡 **Architecture & Quality**: Chú trọng Clean Code, chuẩn mô hình MVC/OOP, thiết kế database quan hệ chuẩn hóa (MySQL) và tối ưu hóa tốc độ tải trang.
+- 🎨 **UI/UX Edge**: Kết hợp tư duy thẩm mỹ từ các công cụ đồ họa (**Adobe Photoshop, Illustrator**) để tạo nên các giao diện người dùng trực quan, chỉn chu và mượt mà.
+- 💬 **Ask me about**: Xây dựng web với PHP & Vue.js, thiết kế cơ sở dữ liệu MySQL, xây dựng RESTful APIs và cắt ghép giao diện responsive.
+- ⚡ **Fun Fact**: Được nạp năng lượng bởi cà phê sữa đá ☕, theme Dark mode 🌙 và playlist Lo-Fi coding 🎧.
 
 ---
 
-### 🛠️ Tech Stack & Capabilities
+### 🛠️ Core Tech Stack
 
 <div align="center">
 
-#### 💻 Programming Languages
+#### 🚀 Primary Expertise (Thế mạnh chính)
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### 🌐 Frontend & Mobile Development
+#### 🎨 Frontend Ecosystem
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJS" />
+  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black" alt="Pinia" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-#### ⚙️ Backend & Frameworks
+#### ⚙️ Backend & Architecture
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/PHP_OOP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP OOP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
 </p>
 
-#### 🗄️ Database & Cloud
+#### 🗄️ Database & Environment
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js (Tooling)" />
 </p>
 
-#### 🎨 Creative Design & Media
-<p>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Lightroom" />
-</p>
-
-#### 🛠️ Tools & DevOps
+#### 🛠️ Tools & Creative Design
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
 </p>
 
 </div>
@@ -140,16 +130,16 @@ motto: "Turning lines of code into impactful solutions"
 
 ---
 
-### 📌 Featured Repositories & Projects
+### 📌 Featured Projects
 
 | Project | Tech Stack | Highlights | Repository |
 | :--- | :--- | :--- | :---: |
-| 🎟️ **TicketBox** | `PHP` `JavaScript` `MySQL` `CSS3` | Hệ thống đặt vé và quản trị sự kiện trực tuyến, tích hợp danh mục nghệ sĩ, video quảng bá và xử lý đơn đặt vé. | [📦 View Repo](https://github.com/BaRoWoPt/TicketBox) |
-| 🌤️ **weather_mb** | `Flutter` `Dart` `REST API` | Ứng dụng dự báo thời tiết đa nền tảng (Mobile & Web) với giao diện trực quan, cập nhật thời tiết theo thời gian thực. | [📦 View Repo](https://github.com/BaRoWoPt/weather_mb) |
-| 🛍️ **TMDT_YAMIE** | `Web Platform` `PHP` `E-Commerce` | Nền tảng bán hàng thương mại điện tử với danh mục sản phẩm, quy trình đặt hàng và tối ưu giao diện bán lẻ. | [📦 View Repo](https://github.com/BaRoWoPt/TMDT_YAMIE) |
-| 🎫 **Show_Ticket** | `JavaScript` `CSS3` `Frontend` | Giao diện hiển thị và đặt vé trực quan với hiệu ứng tương tác mượt mà và tối ưu trải nghiệm đặt chỗ. | [📦 View Repo](https://github.com/BaRoWoPt/Show_Ticket) |
+| 🎟️ **TicketBox** | `PHP` `MySQL` `JavaScript` `CSS3` | Hệ thống bán vé và quản lý sự kiện trực tuyến, tích hợp danh mục nghệ sĩ, video quảng bá, đặt vé và xử lý cơ sở dữ liệu quan hệ. | [📦 View Repo](https://github.com/BaRoWoPt/TicketBox) |
+| 🛍️ **TMDT_YAMIE** | `PHP` `Vue.js / Web` `MySQL` | Nền tảng bán hàng thương mại điện tử với giao diện danh mục sản phẩm, giỏ hàng trực quan và quy trình đặt hàng tối ưu. | [📦 View Repo](https://github.com/BaRoWoPt/TMDT_YAMIE) |
+| 📝 **blog_app** | `PHP` `MySQL` `MVC Pattern` | Ứng dụng Blog & quản lý nội dung số (CMS) với đầy đủ chức năng CRUD bài viết, danh mục và phân quyền quản trị. | [📦 View Repo](https://github.com/BaRoWoPt/blog_app) |
+| 🎫 **Show_Ticket** | `Vue.js / JS` `CSS3` `Frontend` | Giao diện hiển thị sự kiện và sơ đồ đặt vé trực quan với trải nghiệm tương tác mượt mà và tối ưu responsive. | [📦 View Repo](https://github.com/BaRoWoPt/Show_Ticket) |
 
-> 💡 *Xem thêm toàn bộ 17+ kho lưu trữ mã nguồn mở của tôi tại tab [Repositories](https://github.com/BaRoWoPt?tab=repositories)!*
+> 💡 *Xem thêm các kho lưu trữ và dự án mã nguồn mở khác của tôi tại tab [Repositories](https://github.com/BaRoWoPt?tab=repositories)!*
 
 ---
 
@@ -175,5 +165,5 @@ motto: "Turning lines of code into impactful solutions"
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=100&section=footer" width="100%" />
-  <p><em>⭐️ Cảm ơn bạn đã ghé thăm Profile của tôi! Chúc bạn một ngày tràn đầy năng lượng và cảm hứng sáng tạo.</em></p>
+  <p><em>⭐️ Cảm ơn bạn đã ghé thăm Profile của tôi! Chúc bạn một ngày làm việc hiệu quả và nhiều cảm hứng sáng tạo.</em></p>
 </div>
